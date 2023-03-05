@@ -1,0 +1,55 @@
+{
+    "creators": [
+        {
+            "name": "Tom",
+            "age": 19,
+            "id": "1"
+        },
+        {
+            "name": "Franklin",
+            "age": 21,
+            "id": "2"
+        },
+        {
+            "name": "Dave",
+            "age": 29,
+            "id": "3"
+        },
+        {
+            "name": "Tom",
+            "age": 19,
+            "id": "4"
+        },
+        {
+            "name": "Test",
+            "age": 11,
+            "id": "5"
+        }
+    ],
+    "books": [
+        {
+            "name": "book1",
+            "available": true,
+            "author": "Tom",
+            "id": "1"
+        },
+        {
+            "name": "Book 2",
+            "available": true,
+            "author": "Franklin",
+            "id": "2"
+        },
+        {
+            "name": "Carte Test",
+            "available": true,
+            "author": "Dave",
+            "id": "3"
+        },
+        {
+            "name": "Carte Test",
+            "available": true,
+            "author": "Dave",
+            "id": "4"
+        }
+    ]
+}

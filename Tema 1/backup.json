@@ -1,0 +1,55 @@
+{
+    "creators": [
+        {
+            "name": "Tom",
+            "age": 19,
+            "id": "1"
+        },
+        {
+            "name": "asd",
+            "age": 21,
+            "id": "2"
+        },
+        {
+            "name": "Dave",
+            "age": 29,
+            "id": "3"
+        },
+        {
+            "name": "Tom",
+            "age": 19,
+            "id": "4"
+        }
+    ],
+    "books": [
+        {
+            "name": "book1",
+            "available": true,
+            "author": "Tom",
+            "id": "1"
+        },
+        {
+            "name": "Test",
+            "available": false,
+            "id": "2"
+        },
+        {
+            "name": "Carte Test",
+            "available": true,
+            "year": 2000,
+            "id": "3"
+        },
+        {
+            "name": "Carte Test",
+            "available": true,
+            "year": 2000,
+            "id": "4"
+        },
+        {
+            "name": "Carte Test",
+            "available": true,
+            "year": 2000,
+            "id": "5"
+        }
+    ]
+}
